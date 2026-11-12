@@ -35,4 +35,6 @@ COMPASS is an independent community project and is not affiliated with, endorsed
 Use only permitted data sources and respect Fortnite's rules and anti-cheat policies.
 
 **Navigate smarter. Find the Token. 🧭**
-![Uploading image.png…]()
+<img width="223" height="173" alt="Capture d’écran 2026-11-12 141856" src="https://github.com/user-attachments/assets/3cd8b299-1f3b-4be0-bd04-ee79c0a058fe" />
+<img width="223" height="173" alt="Capture d’écran 2026-11-12 141856" src="https://github.com/user-attachments/assets/fa1ca79b-3f3b-430f-863d-745086f18719" />
+
